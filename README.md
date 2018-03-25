@@ -82,11 +82,15 @@ Method - GET
 Authentication - No
 Body- {}
 ```
-
+* Url for accessing the public folder
+```
+http://localhost:4095/public/p.jpg
+```
+### Extras
 To run the server in production change the line in **.env**
 ```
 NODE_ENV=production
 ```
 
-## Making changes in production/development
+#### Making changes in production/development
 You can change the port number and db name in the two seperate files located inside config/environments
