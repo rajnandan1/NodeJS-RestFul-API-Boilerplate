@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/rajnandan1/NodeJS-RestFul-API-Boilerplate"
   },
   "author": "Raj Nandan Sharma",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/rajnandan1/NodeJS-RestFul-API-Boilerplate/issues"
   },
   "homepage": "",
   "dependencies": {

@@ -62,7 +62,7 @@ var start = function(cb) {
    require('../../app/routes/index')(app);
 
 
-   app.use('/public', express.static(path.join(__dirname, '../../../website')));
+   app.use('/public', express.static(path.join(__dirname, '../../public')));
 
    // Error handler
    app.use(function(err, req, res, next) {
